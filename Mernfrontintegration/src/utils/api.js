@@ -1,4 +1,4 @@
-export const API = "https://mern-integration-v5si.onrender.com"
+export const API = "https://mern-integration-v5si.onrender.com";
 export const products = [
   {
     _id: "1",
